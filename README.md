@@ -33,6 +33,6 @@ teoretically you can build on all 23 different architecures listed here:
 
 https://wiki.debian.org/SupportedArchitectures
 
-
-
+Credits: 
+This was originally forked from Debian https://salsa.debian.org/public
 
